@@ -1,0 +1,8 @@
+[package]
+name = "sedre"
+version = "0.0.1"
+description = "You don't want this crate - you want the `serde` crate"
+license = "Unlicense"
+repository = "https://github.com/mre/sedre"
+edition = "2021"
+

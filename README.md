@@ -1,4 +1,4 @@
-#sedre
+# sedre
 
 Trying to use this crate always fails to compile and suggests that folks run `cargo install serde` instead.
 
